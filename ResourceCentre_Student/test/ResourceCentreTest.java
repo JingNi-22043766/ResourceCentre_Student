@@ -187,7 +187,7 @@ public class ResourceCentreTest {
 	    //error
 	    isReturned = ResourceCentre.doReturnChromebook(chromebookList, "CB0013");
 	    assertFalse("Test if non-existing chromebook CB0013 is returned - false?", isReturned);
-	//hello        
+	//hellonihaouewuewhucdc
 	}
 
 	@After
