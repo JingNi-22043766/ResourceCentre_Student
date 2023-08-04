@@ -233,6 +233,7 @@ public class ResourceCentreTest {
 		cb3 = null;
 		camcorderList = null;
 		chromebookList = null;
+		//hello
 
 	}
 
